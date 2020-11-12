@@ -1,0 +1,52 @@
+body{background-color:#00ffff;}
+
+h1{color:#ff0000;
+font-family:"Arial";
+font-style:italic;
+font-size:36px;}
+
+p{color:#9966ff;
+ font-variant: small-caps;
+font-style: oblique;}
+
+
+
+
+table,tr,td,ul,ol{border:5px solid blue ; }
+
+
+
+table,tr,td,ul,ol{
+background-color: #00ff00;
+color: white;
+}
+
+#logoimg{border:2px solid black ;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+	   height:40% ;
+	   border-radius: 50%;
+	   padding: 5px;
+}
+  
+
+img{ border:2px solid blue #ddd;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  opacity: 0.5;
+  
+	   height:25% ;
+	   border-radius: 50%;
+	   padding: 5px;
+	   }
+#logoh1{	color:#3333ff;
+font-style:italic;
+font-size:36px;
+}
+h2{color:  #7a00cc;
+ text-decoration-line: underline;
+}
